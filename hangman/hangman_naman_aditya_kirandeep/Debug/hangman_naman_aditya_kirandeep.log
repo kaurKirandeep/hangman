@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  hangman_naman_aditya_kirandeep.cpp
+c:\users\kkaur\documents\c++_test\hangman_naman_aditya_kirandeep\hangman_naman_aditya_kirandeep\hangman_naman_aditya_kirandeep.cpp(113): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  hangman_naman_aditya_kirandeep.vcxproj -> C:\Users\kkaur\Documents\c++_test\hangman_naman_aditya_kirandeep\Debug\hangman_naman_aditya_kirandeep.exe
